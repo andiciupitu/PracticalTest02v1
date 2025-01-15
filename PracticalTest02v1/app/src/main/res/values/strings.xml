@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PracticalTest02v1</string>
+    <string name="prefix_hint">Introduceți prefixul</string>
+    <string name="search_button_text">Caută</string>
+
+</resources>
