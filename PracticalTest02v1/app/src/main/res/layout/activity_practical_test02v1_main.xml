@@ -29,5 +29,15 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/searchButton"
         android:layout_marginTop="16dp" />
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/searchButton"
+        android:layout_marginTop="16dp"
+        android:text="Sugestie primită:"
+        android:textSize="16sp"
+        android:padding="8dp" />
+
 
 </RelativeLayout>
